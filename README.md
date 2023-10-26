@@ -4,7 +4,7 @@
 
 ## Features
 
-- **Image Search**: The core purpose of Image Hub is to allow users to discover a wide range of high-quality photos. The platform hosts an extensive collection of images accros all categories, themes, and topics.
+- **Image Search**: The core purpose of Image Hub is to allow users to discover a wide range of high-quality photos. The platform hosts an extensive collection of images across all categories, themes, and topics.
 
 - **User-Friendly Interface**: The platform is designed with a clean and intuitive user interface, making it easy for users to navigate and find the images they need.
 
