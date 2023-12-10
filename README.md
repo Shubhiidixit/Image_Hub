@@ -10,8 +10,4 @@
 
 - **Flexible Download Options**: Users can easily download images, making it convenient for them to use the images for different purposes, such as web design, presentations, or personal projects.
 
-
-## Work in Progress
-
-Please note that this project is currently under development, and we are actively working on implementing the features mentioned above.
 Happy coding!❤️
